@@ -66,6 +66,10 @@ My Custom Qutebrowser
 ```
 git clone https://github.com/MitasTech/qutebrowser ~/.config/qutebrowser
 ```
+My Wallpapers
+```
+git clone https://github.com/MitasTech/Wallpapers ~/.wallpapers
+```
 
 ### 4) Set the themes
 
