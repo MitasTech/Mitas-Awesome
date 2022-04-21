@@ -1,6 +1,6 @@
 # Mitas-Awesome
 
-## Material and Mouse driven theme for [AwesomeWM 4.3](https://awesomewm.org/)
+## Customized configuration for [AwesomeWM 4.3](https://awesomewm.org/)
 ### Original design by DT(DistroTube), I modified it changing keybindings, adding my repos in to make cerain apps work correctly, and modifying the dmscripts section to work on this WM. 
 
 Note: This fork focuses on streamlining the config and adding some Quality of Life touches to the theme.
