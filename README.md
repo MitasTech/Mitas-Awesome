@@ -6,7 +6,7 @@
 Note: This fork focuses on streamlining the config and adding some Quality of Life touches to the theme.
 
 
-| Fullscreen   | Rofi Combo Panel | Exit screen   |
+|     Desktop   | Mitas Browser | Mitas Terminal|
 |:-------------:|:-------------:|:-------------:|
 |![](./themes//1.png)|![](./themes/Awesome-Mitas_Browser.png)|![](./themes/Awesome-Mitas_Terminal.png)
 
